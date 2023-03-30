@@ -7,3 +7,6 @@
 [submodule "ep22b030"]
 	path = ep22b030
 	url = https://github.com/joel-kallarackal/ep22b030.git
+[submodule "Abhiyaan-Software-Application"]
+	path = Abhiyaan-Software-Application
+	url = https://github.com/TrishaWadhwani/Abhiyaan-Software-Application
