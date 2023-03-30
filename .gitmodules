@@ -11,7 +11,6 @@
 [submodule "me22b189"]
 	path = me22b189
 	url = https://github.com/Sanidhya-M03/me22b189
-	branch = main
 
 [submodule "me22b205_final"]
 	path = me22b205_final
