@@ -30,3 +30,6 @@
 [submodule "ee22b151"]
 	path = ee22b151
 	url = https://github.com/fiddlestone151/ee22b151.git
+[submodule "ME21B078_ABHIYAAN_APP"]
+	path = ME21B078_ABHIYAAN_APP
+	url = https://github.com/JG-0212/ME21B078_ABHIYAAN_APP
