@@ -39,3 +39,6 @@
 [submodule "Desktop/ABHIYAANSOFTWARE"]
 	path = Desktop/ABHIYAANSOFTWARE
 	url = https://github.com/Shanmuk-droid/CE21B100-abhiyaansoftapp.git
+[submodule "be21b019/ABHIYAANAPPKAIF"]
+	path = be21b019/ABHIYAANAPPKAIF
+	url = https://github.com/kaif0312/ABHIYAANAPPKAIF
