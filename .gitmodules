@@ -36,3 +36,6 @@
 [submodule "cs20b018"]
 	path = cs20b018
 	url = https://github.com/chathur018/cs20b018.git
+[submodule "Desktop/ABHIYAANSOFTWARE"]
+	path = Desktop/ABHIYAANSOFTWARE
+	url = https://github.com/Shanmuk-droid/CE21B100-abhiyaansoftapp.git
