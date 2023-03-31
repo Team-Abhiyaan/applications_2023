@@ -11,3 +11,5 @@ Applications received from :
 * BracedHornet186
 * Trisha
 * fiddlestone
+* growdark
+* PettaBoy

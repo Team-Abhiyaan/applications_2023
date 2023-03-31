@@ -33,3 +33,15 @@
 [submodule "ME21B078_ABHIYAAN_APP"]
 	path = ME21B078_ABHIYAAN_APP
 	url = https://github.com/JG-0212/ME21B078_ABHIYAAN_APP
+[submodule "bs21b034_Abhiyaan_app2023"]
+	path = bs21b034_Abhiyaan_app2023
+	url = https://github.com/PettaBoy/bs21b034_Abhiyaan_app2023.git
+[submodule "cs20b018"]
+	path = cs20b018
+	url = https://github.com/chathur018/cs20b018.git
+[submodule "Desktop/ABHIYAANSOFTWARE"]
+	path = Desktop/ABHIYAANSOFTWARE
+	url = https://github.com/Shanmuk-droid/CE21B100-abhiyaansoftapp.git
+[submodule "be21b019/ABHIYAANAPPKAIF"]
+	path = be21b019/ABHIYAANAPPKAIF
+	url = https://github.com/kaif0312/ABHIYAANAPPKAIF
